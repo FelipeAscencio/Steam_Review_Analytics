@@ -1,14 +1,18 @@
 # Trabajo Práctico Individual "Fork Join" 
 
-## Materia: Programación Concurrente.
+## Report
 
-### Alumno: Ascencio Felipe Santino.
+### Introduction
 
-### Padrón: 110675.
+This project consists of an individual university project focused on the analysis of a dataset containing user reviews from the Steam platform.
 
-### Video explicativo.
+The objective was to design and implement a data analysis pipeline using the Rust programming language. The system is based on a 'Fork-Join' concurrency model, enabling parallel data processing to efficiently handle large volumes of reviews. The outcome of the analysis is compiled and structured into a comprehensive JSON report, summarizing key insights extracted from the dataset.
 
-[Link al video](https://drive.google.com/drive/folders/1AwMEUB41e1ugcRlc8IgNJUbbCyO33q3h?usp=drive_link)
+The project repository includes a fully self-documented codebase. Each function, key variable declaration, and relevant logic has been clearly commented to ensure the readability and maintainability of the program.
+
+A clarification: The project was developed for university purposes, and both the analysis inform, and code comments are written in Spanish.
+
+With this context in mind, let's move on to the explanation of the system's design and implementation approach.
 
 ### Ejecución del programa
 
